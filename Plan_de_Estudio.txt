@@ -68,7 +68,6 @@ Importar módulos y paquetes (import, from ... import ..., as).
 Introducción a los módulos math y random de la biblioteca estándar de Python.
 Introducción a pip (Python Package Installer) - Para instalar librerías de terceros.
 
-Explicame esto tema por tema manera detallada y con ejemplos. Y luego dame varios ejercicios para hacerlos y que tú los revises y me des un feedback
 
 Ejemplos Prácticos:
 Escribir un código que intente dividir un número por cero y maneje la excepción ZeroDivisionError.
@@ -99,6 +98,9 @@ Crear arrays NumPy de diferentes formas y tipos.
 Realizar operaciones aritméticas entre arrays.
 Calcular la media, mediana, desviación estándar de un array NumPy.
 Utilizar broadcasting para escalar una matriz por un vector.
+
+Explicame esto tema por tema manera detallada y con ejemplos. Y luego dame varios ejercicios para hacerlos y que tú los revises y me des un feedback
+
 Ejercicios:
 Crear una matriz identidad de tamaño 5x5.
 Calcular el producto punto de dos vectores.
