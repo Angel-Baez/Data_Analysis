@@ -1,0 +1,116 @@
+Tipo           ,Día   ,Momento de Comida ,Ítem                                           ,Cantidad               ,Calorías (aprox)
+Plan de Comida ,Día 1 ,Desayuno          ,Avena                                          ,1/2 taza en seco       ,400-500
+Plan de Comida ,Día 1 ,Desayuno          ,Leche entera/vegetal enriquecida en proteína   ,1 taza                 ,400-500
+Plan de Comida ,Día 1 ,Desayuno          ,Mantequilla de maní                            ,1 cucharada            ,400-500
+Plan de Comida ,Día 1 ,Desayuno          ,Plátano mediano                                ,1 unidad               ,400-500
+Plan de Comida ,Día 1 ,Media Mañana      ,Yogur griego natural                           ,1 taza                 ,200-300
+Plan de Comida ,Día 1 ,Media Mañana      ,Granola                                        ,1/4 taza               ,200-300
+Plan de Comida ,Día 1 ,Media Mañana      ,Frutos rojos                                   ,1 puñado               ,200-300
+Plan de Comida ,Día 1 ,Almuerzo          ,Pechuga de pollo a la plancha                  ,5 oz                   ,500-600
+Plan de Comida ,Día 1 ,Almuerzo          ,Arroz integral cocido                          ,1 taza                 ,500-600
+Plan de Comida ,Día 1 ,Almuerzo          ,Brócoli al vapor                               ,1 taza                 ,500-600
+Plan de Comida ,Día 1 ,Almuerzo          ,Aceite de oliva                                ,1 cucharada            ,500-600
+Plan de Comida ,Día 1 ,Media Tarde       ,Proteína en polvo de suero de leche            ,1 scoop                ,250-350
+Plan de Comida ,Día 1 ,Media Tarde       ,Leche                                          ,1 taza                 ,250-350
+Plan de Comida ,Día 1 ,Media Tarde       ,Plátano                                        ,1/2 unidad             ,250-350
+Plan de Comida ,Día 1 ,Media Tarde       ,Semillas de chía                               ,1 cucharada            ,250-350
+Plan de Comida ,Día 1 ,Cena              ,Salmón al horno                                ,5 oz                   ,500-600
+Plan de Comida ,Día 1 ,Cena              ,Batata asada                                   ,1 mediana              ,500-600
+Plan de Comida ,Día 1 ,Cena              ,Espárragos asados                              ,1 taza                 ,500-600
+Plan de Comida ,Día 1 ,Cena              ,Aceite de oliva                                ,cantidad para asar     ,500-600
+Plan de Comida ,Día 2 ,Desayuno          ,Huevos                                         ,3 unidades             ,450-550
+Plan de Comida ,Día 2 ,Desayuno          ,Espinacas                                      ,cantidad al gusto      ,450-550
+Plan de Comida ,Día 2 ,Desayuno          ,Queso                                          ,1 oz                   ,450-550
+Plan de Comida ,Día 2 ,Desayuno          ,Pan integral tostado                           ,2 rebanadas            ,450-550
+Plan de Comida ,Día 2 ,Desayuno          ,Aguacate                                       ,1/4 unidad             ,450-550
+Plan de Comida ,Día 2 ,Media Mañana      ,Manzana                                        ,1 unidad               ,200-300
+Plan de Comida ,Día 2 ,Media Mañana      ,Mantequilla de almendras                       ,2 cucharadas           ,200-300
+Plan de Comida ,Día 2 ,Almuerzo          ,Lentejas estofadas                             ,1.5 tazas              ,550-650
+Plan de Comida ,Día 2 ,Almuerzo          ,Verduras (zanahoria. pimiento)                 ,cantidad al gusto      ,550-650
+Plan de Comida ,Día 2 ,Almuerzo          ,Pan integral                                   ,1 rebanada             ,550-650
+Plan de Comida ,Día 2 ,Media Tarde       ,Nueces mixtas                                  ,1/4 taza               ,250-350
+Plan de Comida ,Día 2 ,Media Tarde       ,Naranja                                        ,1 unidad               ,250-350
+Plan de Comida ,Día 2 ,Cena              ,Carne magra de res a la plancha                ,5 oz                   ,500-600
+Plan de Comida ,Día 2 ,Cena              ,Puré de patata                                 ,1 taza                 ,500-600
+Plan de Comida ,Día 2 ,Cena              ,Judías verdes salteadas                        ,1 taza                 ,500-600
+Plan de Comida ,Día 3 ,Desayuno          ,Yogur griego                                   ,1 taza                 ,400-500
+Plan de Comida ,Día 3 ,Desayuno          ,Granola                                        ,1/2 taza               ,400-500
+Plan de Comida ,Día 3 ,Desayuno          ,Semillas de girasol                            ,1/4 taza               ,400-500
+Plan de Comida ,Día 3 ,Desayuno          ,Miel                                           ,1 cucharada            ,400-500
+Plan de Comida ,Día 3 ,Media Mañana      ,Queso cottage                                  ,1/2 taza               ,200-300
+Plan de Comida ,Día 3 ,Media Mañana      ,Melocotón enlatado en su jugo                  ,1/2 taza               ,200-300
+Plan de Comida ,Día 3 ,Almuerzo          ,Atún enlatado en agua                          ,5 oz                   ,500-600
+Plan de Comida ,Día 3 ,Almuerzo          ,Hojas verdes                                   ,cantidad al gusto      ,500-600
+Plan de Comida ,Día 3 ,Almuerzo          ,Tomate                                         ,cantidad al gusto      ,500-600
+Plan de Comida ,Día 3 ,Almuerzo          ,Pepino                                         ,cantidad al gusto      ,500-600
+Plan de Comida ,Día 3 ,Almuerzo          ,Aguacate                                       ,1/4 unidad             ,500-600
+Plan de Comida ,Día 3 ,Almuerzo          ,Aderezo ligero a base de aceite y vinagre      ,cantidad al gusto      ,500-600
+Plan de Comida ,Día 3 ,Almuerzo          ,Pan integral                                   ,1 rebanada             ,500-600
+Plan de Comida ,Día 3 ,Media Tarde       ,Leche                                          ,1 taza                 ,250-350
+Plan de Comida ,Día 3 ,Media Tarde       ,Frutas congeladas (bayas mixtas)               ,1/2 taza               ,250-350
+Plan de Comida ,Día 3 ,Media Tarde       ,Linaza molida                                  ,1 cucharada            ,250-350
+Plan de Comida ,Día 3 ,Cena              ,Pavo molido                                    ,5 oz                   ,500-600
+Plan de Comida ,Día 3 ,Cena              ,Verduras mixtas (pimientos cebolla calabacín)  ,cantidad al gusto      ,500-600
+Plan de Comida ,Día 3 ,Cena              ,Arroz integral                                 ,1/2 taza               ,500-600
+Plan de Comida ,Día 4 ,Desayuno          ,Pan integral                                   ,2 rebanadas            ,450-550
+Plan de Comida ,Día 4 ,Desayuno          ,Huevos                                         ,2 unidades             ,450-550
+Plan de Comida ,Día 4 ,Desayuno          ,Leche                                          ,cantidad necesaria     ,450-550
+Plan de Comida ,Día 4 ,Desayuno          ,Fruta fresca (plátano y fresas)                ,cantidad al gusto      ,450-550
+Plan de Comida ,Día 4 ,Desayuno          ,Sirope de arce                                 ,2 cucharadas           ,450-550
+Plan de Comida ,Día 4 ,Media Mañana      ,Huevo duro                                     ,2 unidades             ,200-300
+Plan de Comida ,Día 4 ,Media Mañana      ,Galletas integrales                            ,4 unidades             ,200-300
+Plan de Comida ,Día 4 ,Almuerzo          ,Pasta integral cocida                          ,1 taza                 ,550-650
+Plan de Comida ,Día 4 ,Almuerzo          ,Salsa de tomate casera                         ,cantidad al gusto      ,550-650
+Plan de Comida ,Día 4 ,Almuerzo          ,Albóndigas de pavo                             ,4-5 unidades           ,550-650
+Plan de Comida ,Día 4 ,Almuerzo          ,Ensalada verde pequeña                         ,cantidad al gusto      ,550-650
+Plan de Comida ,Día 4 ,Almuerzo          ,Aderezo ligero                                 ,cantidad al gusto      ,550-650
+Plan de Comida ,Día 4 ,Media Tarde       ,Palitos de zanahoria y apio                    ,cantidad al gusto      ,250-350
+Plan de Comida ,Día 4 ,Media Tarde       ,Hummus                                         ,1/4 taza               ,250-350
+Plan de Comida ,Día 4 ,Cena              ,Cerdo magro asado                              ,5 oz                   ,500-600
+Plan de Comida ,Día 4 ,Cena              ,Quinoa cocida                                  ,1 taza                 ,500-600
+Plan de Comida ,Día 4 ,Cena              ,Ensalada de repollo                            ,1 taza                 ,500-600
+Plan de Comida ,Día 5 ,Desayuno          ,Avena en seco                                  ,1/2 taza               ,400-500
+Plan de Comida ,Día 5 ,Desayuno          ,Leche                                          ,1 taza                 ,400-500
+Plan de Comida ,Día 5 ,Desayuno          ,Proteína de caseína (opcional)                 ,1 scoop                ,400-500
+Plan de Comida ,Día 5 ,Desayuno          ,Mantequilla de cacahuete                       ,1 cucharada            ,400-500
+Plan de Comida ,Día 5 ,Desayuno          ,Plátano                                        ,1/2 unidad             ,400-500
+Plan de Comida ,Día 5 ,Media Mañana      ,Pera                                           ,1 unidad               ,200-300
+Plan de Comida ,Día 5 ,Media Mañana      ,Queso                                          ,1 oz                   ,200-300
+Plan de Comida ,Día 5 ,Almuerzo          ,Sopa de pollo con verduras y fideos integrales ,2 tazas                ,500-600
+Plan de Comida ,Día 5 ,Almuerzo          ,Pan integral                                   ,1 rebanada             ,500-600
+Plan de Comida ,Día 5 ,Almuerzo          ,Mantequilla                                    ,cantidad al gusto      ,500-600
+Plan de Comida ,Día 5 ,Media Tarde       ,Edamame al vapor en vaina                      ,1 taza                 ,250-350
+Plan de Comida ,Día 5 ,Cena              ,Pizza casera con base integral                 ,2-3 porciones medianas ,500-600
+Plan de Comida ,Día 5 ,Cena              ,Salsa de tomate                                ,cantidad al gusto      ,500-600
+Plan de Comida ,Día 5 ,Cena              ,Queso mozzarella                               ,cantidad al gusto      ,500-600
+Plan de Comida ,Día 5 ,Cena              ,Pollo desmenuzado                              ,cantidad al gusto      ,500-600
+Plan de Comida ,Día 5 ,Cena              ,Verduras (pimiento cebolla)                    ,cantidad al gusto      ,500-600
+Plan de Comida ,Día 6 ,Desayuno          ,Panqueques integrales                          ,3 medianos             ,450-550
+Plan de Comida ,Día 6 ,Desayuno          ,Fruta fresca (bayas)                           ,cantidad al gusto      ,450-550
+Plan de Comida ,Día 6 ,Desayuno          ,Yogur griego                                   ,1/4 taza               ,450-550
+Plan de Comida ,Día 6 ,Media Mañana      ,Leche                                          ,1 taza                 ,200-300
+Plan de Comida ,Día 6 ,Media Mañana      ,Plátano                                        ,1 unidad               ,200-300
+Plan de Comida ,Día 6 ,Media Mañana      ,Proteína de suero de leche (opcional)          ,1 cucharada            ,200-300
+Plan de Comida ,Día 6 ,Almuerzo          ,Tortilla integral grande                       ,1 unidad               ,550-650
+Plan de Comida ,Día 6 ,Almuerzo          ,Pollo a la plancha                             ,4 oz                   ,550-650
+Plan de Comida ,Día 6 ,Almuerzo          ,Lechuga                                        ,cantidad al gusto      ,550-650
+Plan de Comida ,Día 6 ,Almuerzo          ,Tomate                                         ,cantidad al gusto      ,550-650
+Plan de Comida ,Día 6 ,Almuerzo          ,Aguacate                                       ,1/4 unidad             ,550-650
+Plan de Comida ,Día 6 ,Almuerzo          ,Salsa ligera                                   ,cantidad al gusto      ,550-650
+Plan de Comida ,Día 6 ,Media Tarde       ,Popcorn casero reventado                       ,3 tazas                ,250-350
+Plan de Comida ,Día 6 ,Media Tarde       ,Aceite de oliva                                ,cantidad al gusto      ,250-350
+Plan de Comida ,Día 6 ,Media Tarde       ,Especias                                       ,cantidad al gusto      ,250-350
+Plan de Comida ,Día 6 ,Cena              ,Hamburguesa casera de pavo (en pan integral)   ,1 unidad               ,500-600
+Plan de Comida ,Día 6 ,Cena              ,Ensalada (lechuga tomate cebolla)              ,cantidad al gusto      ,500-600
+Plan de Comida ,Día 6 ,Cena              ,Batatas fritas al horno                        ,1 taza                 ,500-600
+Plan de Comida ,Día 7 ,Desayuno          ,Tofu revuelto                                  ,1 taza                 ,400-500
+Plan de Comida ,Día 7 ,Desayuno          ,Verduras (pimientos cebolla)                   ,cantidad al gusto      ,400-500
+Plan de Comida ,Día 7 ,Desayuno          ,Pan integral tostado                           ,1 rebanada             ,400-500
+Plan de Comida ,Día 7 ,Desayuno          ,Aguacate                                       ,1/4 unidad             ,400-500
+Plan de Comida ,Día 7 ,Media Mañana      ,Naranja                                        ,1 unidad               ,200-300
+Plan de Comida ,Día 7 ,Media Mañana      ,Almendras                                      ,1/4 taza               ,200-300
+Plan de Comida ,Día 7 ,Almuerzo          ,Paella de pollo y mariscos                     ,1.5 tazas              ,500-600
+Plan de Comida ,Día 7 ,Media Tarde       ,Barrita de proteína casera/comprada            ,1 unidad               ,250-350
+Plan de Comida ,Día 7 ,Cena              ,Lasaña de verduras y carne magra               ,1 porción mediana      ,500-600
+Plan de Comida ,Día 7 ,Cena              ,Ensalada verde mixta                           ,cantidad al gusto      ,500-600
+Plan de Comida ,Día 7 ,Cena              ,Vinagreta balsámica                            ,cantidad al gusto      ,500-600
