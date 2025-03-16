@@ -67,6 +67,9 @@ Importancia del manejo de errores para la robustez del código.
 Importar módulos y paquetes (import, from ... import ..., as).
 Introducción a los módulos math y random de la biblioteca estándar de Python.
 Introducción a pip (Python Package Installer) - Para instalar librerías de terceros.
+
+Explicame esto tema por tema manera detallada y con ejemplos. Y luego dame varios ejercicios para hacerlos y que tú los revises y me des un feedback
+
 Ejemplos Prácticos:
 Escribir un código que intente dividir un número por cero y maneje la excepción ZeroDivisionError.
 Importar el módulo math y usar funciones como sqrt y sin.
