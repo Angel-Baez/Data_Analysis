@@ -1,0 +1,21 @@
+ID,Producto,Categoria,Fecha,Cantidad,Precio,Cliente,Pais
+04,Tablet,Electrónico,2024-07-28,42,987,Juan Pérez,México
+11,Zapatos,Ropa,2024-04-14,23,456,Ana Gómez,España
+01,Laptop,Electrónico,2024-11-05,10,1200,Carlos Ruiz,Argentina
+23,Libro,Libros,2024-02-19,35,45,Laura Díaz,Colombia
+12,Camiseta,Ropa,2024-09-22,18,20,Mario López,Chile
+04,Tablet,Electrónico,2024-05-07,27,300,Sofía Martínez,Perú
+11,Zapatos,Ropa,2024-08-11,50,80,Pedro Sánchez,Venezuela
+23,Libro,Libros,2024-03-03,12,60,Lucía Torre,Ecuador
+15,Pantalón,Ropa,2024-06-16,39,50,Juan Pérez,México
+07,Smartphone,Electrónico,2024-10-09,21,800,Ana Gómez,España
+01,Laptop,Electrónico,2024-01-02,47,1200,Carlos Ruiz,Argentina
+04,Tablet,Electrónico,2024-12-18,14,300,Laura Díaz,Colombia
+11,Zapatos,Ropa,2024-07-04,33,80,Mario López,Chile
+12,Camiseta,Ropa,2024-04-29,28,20,Sofía Martínez,Perú
+15,Pantalón,Ropa,2024-09-01,45,50,Pedro Sánchez,Venezuela
+07,Smartphone,Electrónico,2024-02-12,19,800,Lucía Torre,Ecuador
+01,Laptop,Electrónico,2024-11-22,36,1200,Juan Pérez,México
+04,Tablet,Electrónico,2024-05-30,22,300,Ana Gómez,España
+11,Zapatos,Ropa,2024-08-07,41,80,Carlos Ruiz,Argentina
+12,Camiseta,Ropa,2024-03-26,16,20,Laura Díaz,Colombia

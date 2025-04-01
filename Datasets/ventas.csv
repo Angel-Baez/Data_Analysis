@@ -1,0 +1,21 @@
+ID,Producto,Categoria,Fecha,Cantidad,Precio,Cliente,Pais
+01,Laptop,Electronica,2023-01-05,10,1200.00,Juan Pérez,México
+12,Camiseta,Ropa,2023-01-10,50,25.00,María García,España
+23,Libro,Libros,2023-01-15,20,30.00,Carlos López,Argentina
+01,Laptop,Electronica,2023-02-01,5,1250.00,Ana Rodríguez,Colombia
+15,Pantalon,Ropa,2023-02-05,30,45.00,Luis Martínez,Chile
+23,Libro,Libros,2023-02-10,15,32.00,Laura Sánchez,Perú
+01,Laptop,Electronica,2023-03-01,8,1300.00,Pedro Díaz,Venezuela
+12,Camiseta,Ropa,2023-03-05,40,27.00,Sofía Gómez,Ecuador
+23,Libro,Libros,2023-03-10,25,35.00,Diego Ruiz,Bolivia
+07,Smartphone,Electronica,2023-03-15,12,800.00,Carmen Torres,Paraguay
+11,Zapatos,Ropa,2023-03-20,35,60.00,Javier Morales,Uruguay
+02,Auriculares,Electronica,2023-03-25,18,150.00,Isabel Castro,Guatemala
+13,Mochila,Ropa,2023-03-30,22,55.00,Roberto Jiménez,El Salvador
+04,Tablet,Electronica,2023-04-01,7,400.00,Elena Vargas,Honduras
+15,Sudadera,Ropa,2023-04-05,28,50.00,Ricardo Medina,Nicaragua
+26,Novela,Libros,2023-04-10,16,28.00,Paula Navarro,Costa Rica
+02,Impresora,Electronica,2023-04-15,4,250.00,Antonio Ortega,Panamá
+18,Calcetines,Ropa,2023-04-20,60,10.00,Marta Serrano,Cuba
+29,Diccionario,Libros,2023-04-25,10,20.00,Fernando Rubio,República Dominicana
+03,Smartwatch,Electronica,2023-04-30,9,200.00,Lucía Molina,Puerto Rico
