@@ -130,6 +130,10 @@ Seleccionar columnas y filas específicas de un DataFrame.
 Filtrar un DataFrame para obtener filas que cumplan ciertas condiciones.
 Calcular estadísticas descriptivas (media, mediana, etc.) por grupo usando groupby.
 Unir dos DataFrames basados en una columna común.
+
+Explicame esto tema por tema manera detallada y con ejemplos. Y luego dame varios ejercicios para hacerlos y que tú los revises y me des un feedback. duracion 3 semanas para que te extiendas mas en cada tema
+
+
 Ejercicios:
 Cargar un dataset público (por ejemplo, de Kaggle o UCI Machine Learning Repository) en un DataFrame de Pandas.
 Realizar limpieza de datos en el dataset (manejo de valores faltantes, eliminación de duplicados, etc.).
