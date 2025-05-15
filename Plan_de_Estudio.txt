@@ -1,0 +1,299 @@
+Módulo 1: Fundamentos de Python para Análisis de Datos (Duración Estimada: 3-4 semanas)
+
+Semana 1: Introducción a Python y Configuración del Entorno de Desarrollo
+
+Temas:
+¿Qué es Python y por qué es popular en análisis de datos?
+Instalación de Python (Anaconda Distribution - recomendada por su facilidad para gestión de librerías).
+Introducción a VSCode (Visual Studio Code) como IDE (Entorno de Desarrollo Integrado).
+Instalación de extensiones esenciales de Python en VSCode (Python extension de Microsoft, Pylance, etc.).
+Creación y gestión de entornos virtuales en Python (virtualenv o conda env) - Importante para mantener proyectos aislados y evitar conflictos de dependencias.
+Ejecución de scripts Python básicos en VSCode.
+Conceptos básicos: variables, tipos de datos (integers, floats, strings, booleans), operadores aritméticos, operadores de comparación, operadores lógicos.
+Ejemplos Prácticos:
+Crear un script sencillo que imprima "Hola Mundo" en la consola.
+Declarar variables de diferentes tipos y realizar operaciones básicas.
+Escribir un script que compare dos números y determine cuál es mayor.
+Ejercicios:
+Configurar un entorno virtual para un nuevo proyecto de análisis de datos en VSCode.
+Escribir un script que calcule el área y el perímetro de un rectángulo dadas su longitud y ancho.
+Escribir un script que determine si un número ingresado por el usuario es par o impar.
+
+Semana 2: Estructuras de Control de Flujo y Funciones
+
+Temas:
+Sentencias condicionales: if, elif, else.
+Bucles: for y while.
+Funciones: definición, argumentos, valor de retorno, ámbito de las variables.
+Buenas prácticas de escritura de funciones (documentación, nombres descriptivos).
+
+Explicame esto detalladamente y con ejemplos. Y luego dame varios ejercicios para hacerlos y que tu los revises y me des un feedback
+Ejemplos Prácticos:
+Escribir una función que determine si un año es bisiesto o no.
+Usar un bucle for para iterar a través de una lista de nombres e imprimir cada nombre.
+Crear una función que calcule la suma de los números en una lista.
+Ejercicios:
+Escribir una función que encuentre el número más grande en una lista de números.
+Escribir un script que use un bucle while para contar regresivamente desde 10 hasta 1.
+Crear una función que calcule el factorial de un número.
+
+Semana 3: Estructuras de Datos en Python: Listas, Tuplas, Diccionarios y Sets
+
+Temas:
+Listas: creación, acceso a elementos, slicing, métodos de listas (append, insert, remove, pop, sort, etc.).
+Tuplas: creación, inmutabilidad, cuándo usar tuplas vs. listas.
+Diccionarios: creación, acceso a elementos por clave, métodos de diccionarios (keys, values, items, get, update, etc.).
+Sets: creación, operaciones de conjuntos (unión, intersección, diferencia, etc.), eliminación de duplicados.
+Comprensión de listas (list comprehensions) - Una forma concisa y eficiente de crear listas.
+
+Explicame esto detalladamente y con ejemplos. Y luego dame varios ejercicios para hacerlos y que tú los revises y me des un feedback
+
+Ejemplos Prácticos:
+Crear una lista de nombres y acceder a elementos específicos.
+Crear un diccionario para almacenar información de estudiantes (nombre, edad, carrera).
+Usar un set para eliminar elementos duplicados de una lista.
+Escribir una comprensión de lista para crear una lista de los cuadrados de los números del 1 al 10.
+Ejercicios:
+Crear una lista de números aleatorios y ordenarla de forma ascendente.
+Crear un diccionario que cuente la frecuencia de cada palabra en una frase dada.
+Utilizar operaciones de sets para encontrar los elementos comunes entre dos listas.
+
+Semana 4: Manejo de Errores y Módulos/Paquetes en Python
+
+Temas:
+Manejo de excepciones: try, except, finally.
+Importancia del manejo de errores para la robustez del código.
+¿Qué son los módulos y paquetes en Python?
+Importar módulos y paquetes (import, from ... import ..., as).
+Introducción a los módulos math y random de la biblioteca estándar de Python.
+Introducción a pip (Python Package Installer) - Para instalar librerías de terceros.
+Ejemplos Prácticos:
+Escribir un código que intente dividir un número por cero y maneje la excepción ZeroDivisionError.
+Importar el módulo math y usar funciones como sqrt y sin.
+Importar el módulo random y generar números aleatorios.
+Instalar el paquete requests usando pip.
+Ejercicios:
+Escribir un código que pida al usuario que ingrese un número y maneje la excepción ValueError si el usuario no ingresa un número válido.
+Utilizar el módulo random para simular el lanzamiento de un dado 100 veces y contar la frecuencia de cada resultado.
+Investigar y utilizar una función del módulo math que no hayamos visto en los ejemplos.
+
+Módulo 2: Librerías Esenciales de Python para Análisis de Datos: NumPy y Pandas (Duración Estimada: 4-6 semanas)
+
+Semana 5-6: NumPy - Computación Numérica Eficiente
+
+Temas:
+Introducción a NumPy y los arrays NumPy (ndarrays).
+Diferencias entre listas de Python y arrays NumPy - Ventajas de NumPy en rendimiento y funcionalidad para operaciones numéricas.
+Creación de arrays NumPy (a partir de listas, con funciones como arange, linspace, zeros, ones, random.rand, etc.).
+Tipos de datos en NumPy arrays (dtype).
+Indexación y slicing de arrays NumPy (similar a listas, pero con capacidades avanzadas).
+Operaciones aritméticas con arrays NumPy (elemento a elemento, operaciones con escalares).
+Funciones universales (ufuncs) de NumPy (funciones matemáticas, trigonométricas, lógicas, etc. aplicadas a arrays completos).
+Álgebra lineal básica con NumPy (dot product, transpose, etc.).
+Broadcasting en NumPy - Concepto importante para operaciones entre arrays de diferentes formas.
+Ejemplos Prácticos:
+Crear arrays NumPy de diferentes formas y tipos.
+Realizar operaciones aritméticas entre arrays.
+Calcular la media, mediana, desviación estándar de un array NumPy.
+Utilizar broadcasting para escalar una matriz por un vector.
+Ejercicios:
+Crear una matriz identidad de tamaño 5x5.
+Calcular el producto punto de dos vectores.
+Normalizar un array NumPy (restar la media y dividir por la desviación estándar).
+
+Semana 7-10: Pandas - Manipulación y Análisis de Datos Tabulares
+
+Temas:
+Introducción a Pandas y DataFrames - Estructura de datos fundamental para análisis tabular.
+Series en Pandas (arrays unidimensionales indexados).
+Creación de DataFrames (a partir de diccionarios, listas de listas, arrays NumPy, archivos CSV, etc.).
+Lectura y escritura de DataFrames desde/a archivos CSV, Excel, etc. (read_csv, to_csv, read_excel, to_excel).
+Indexación y selección de datos en DataFrames (loc, iloc, indexación booleana).
+Manipulación básica de DataFrames:
+Añadir y eliminar columnas (assign, drop).
+Renombrar columnas (rename).
+Ordenar DataFrames (sort_values).
+Filtrado de DataFrames (basado en condiciones).
+Manejo de valores faltantes (isnull, notnull, dropna, fillna).
+Agrupación y agregación de datos (groupby, agg, mean, sum, count, min, max, etc.).
+Unión y concatenación de DataFrames (merge, concat).
+Aplicación de funciones a DataFrames (apply, applymap).
+Ejemplos Prácticos:
+Crear un DataFrame a partir de un diccionario de datos.
+Leer un archivo CSV en un DataFrame.
+Seleccionar columnas y filas específicas de un DataFrame.
+Filtrar un DataFrame para obtener filas que cumplan ciertas condiciones.
+Calcular estadísticas descriptivas (media, mediana, etc.) por grupo usando groupby.
+Unir dos DataFrames basados en una columna común.
+Ejercicios:
+Cargar un dataset público (por ejemplo, de Kaggle o UCI Machine Learning Repository) en un DataFrame de Pandas.
+Realizar limpieza de datos en el dataset (manejo de valores faltantes, eliminación de duplicados, etc.).
+Explorar el dataset utilizando funciones de Pandas (estadísticas descriptivas, gráficos básicos, etc.).
+Responder a preguntas específicas sobre el dataset utilizando operaciones de filtrado y agrupación en Pandas.
+
+Módulo 3: Visualización de Datos con Matplotlib y Seaborn (Duración Estimada: 2-3 semanas)
+
+Semana 11-13: Matplotlib y Seaborn - Gráficos para Exploración y Comunicación
+Temas:
+Introducción a la visualización de datos y su importancia en el análisis.
+Introducción a Matplotlib:
+Estructura básica de una figura en Matplotlib (Figure, Axes, etc.).
+Tipos de gráficos básicos: plot (líneas), scatter (puntos), bar (barras), hist (histogramas), pie (torta), boxplot (cajas y bigotes).
+Personalización de gráficos: títulos, etiquetas de ejes, leyendas, colores, estilos de línea, marcadores, límites de ejes, anotaciones.
+Introducción a Seaborn:
+Seaborn como una librería construida sobre Matplotlib - Facilita la creación de gráficos estadísticos más complejos y visualmente atractivos.
+Gráficos de distribución: histplot, kdeplot, ecdfplot.
+Gráficos de relación: scatterplot, lineplot, relplot.
+Gráficos categóricos: barplot, countplot, boxplot, violinplot, catplot.
+Mapas de calor (heatmap) - Útiles para visualizar matrices de correlación y datos bidimensionales.
+Personalización de gráficos de Seaborn.
+Uso de estilos y paletas de colores de Seaborn para mejorar la estética.
+Cuándo usar Matplotlib directamente y cuándo usar Seaborn.
+Principios de diseño efectivo de visualizaciones (claridad, concisión, elección del gráfico adecuado para el tipo de datos y mensaje).
+Ejemplos Prácticos:
+Crear gráficos de líneas, barras, dispersión, histogramas y boxplots con Matplotlib y Seaborn.
+Personalizar gráficos para hacerlos más claros y visualmente atractivos (títulos, etiquetas, colores, etc.).
+Crear un mapa de calor de una matriz de correlación.
+Utilizar diferentes estilos de Seaborn para cambiar la apariencia de los gráficos.
+Ejercicios:
+Utilizando un dataset de ejemplo, crear diferentes tipos de visualizaciones para explorar las variables y relaciones en los datos.
+Experimentar con diferentes opciones de personalización en Matplotlib y Seaborn para mejorar la claridad de las visualizaciones.
+Elegir el tipo de gráfico más adecuado para representar diferentes tipos de datos y preguntas analíticas.
+
+Módulo 4: SQL para Análisis de Datos (Duración Estimada: 3-4 semanas)
+
+Semana 14-17: Fundamentos de SQL y Consultas Básicas
+
+Temas:
+Introducción a las bases de datos relacionales y SQL (Structured Query Language).
+Tipos de bases de datos relacionales (MySQL, PostgreSQL, SQLite, etc.).
+Instalación y configuración de un sistema de gestión de bases de datos (SQLite es una buena opción para empezar por su simplicidad).
+Herramientas para interactuar con bases de datos (línea de comandos, clientes gráficos como DBeaver, etc.).
+Conceptos básicos de SQL: tablas, columnas, filas, tipos de datos.
+Sentencias SQL fundamentales:
+SELECT: seleccionar columnas.
+FROM: especificar la tabla.
+WHERE: filtrar filas (operadores de comparación, operadores lógicos, IN, BETWEEN, LIKE).
+ORDER BY: ordenar resultados.
+LIMIT: limitar el número de resultados.
+DISTINCT: obtener valores únicos.
+Funciones de agregación: COUNT, SUM, AVG, MIN, MAX.
+GROUP BY: agrupar filas por una o más columnas.
+HAVING: filtrar grupos (después de aplicar GROUP BY).
+Ejemplos Prácticos:
+Crear una base de datos y tablas utilizando SQL.
+Insertar datos en las tablas.
+Ejecutar consultas SELECT básicas para extraer datos.
+Utilizar la cláusula WHERE para filtrar datos basados en diferentes criterios.
+Ordenar resultados utilizando ORDER BY.
+Calcular agregaciones (contar, sumar, promediar, etc.) utilizando funciones de agregación.
+Agrupar datos utilizando GROUP BY y filtrar grupos con HAVING.
+Ejercicios:
+Diseñar un esquema de base de datos simple para un escenario específico (por ejemplo, una biblioteca, una tienda online, etc.).
+Crear las tablas correspondientes en la base de datos.
+Insertar datos de ejemplo en las tablas.
+Escribir consultas SQL para responder a preguntas específicas sobre los datos en la base de datos (utilizando las sentencias y funciones aprendidas).
+
+Semana 18-20: Consultas SQL Avanzadas y Joins
+
+Temas:
+JOINs:
+INNER JOIN: unir tablas basándose en columnas coincidentes (filas que coinciden en ambas tablas).
+LEFT JOIN (o LEFT OUTER JOIN): incluir todas las filas de la tabla izquierda y las filas coincidentes de la tabla derecha.
+RIGHT JOIN (o RIGHT OUTER JOIN): similar a LEFT JOIN pero incluyendo todas las filas de la tabla derecha.
+FULL OUTER JOIN: incluir todas las filas de ambas tablas, coincidan o no.
+SELF JOIN: unir una tabla consigo misma.
+Subconsultas (subqueries) - Consultas dentro de consultas para realizar análisis más complejos.
+Vistas (views) - Consultas almacenadas como tablas virtuales.
+Índices - Para optimizar el rendimiento de las consultas.
+Funciones de ventana (window functions) - Para realizar cálculos en un conjunto de filas relacionadas a la fila actual.
+Transacciones y control de transacciones - Para asegurar la integridad de los datos en operaciones de escritura.
+Ejemplos Prácticos:
+Realizar INNER JOIN, LEFT JOIN, RIGHT JOIN y FULL OUTER JOIN entre dos o más tablas.
+Utilizar subconsultas para filtrar datos basándose en resultados de otras consultas.
+Crear vistas para simplificar consultas complejas.
+Utilizar funciones de ventana para calcular rankings o medias móviles.
+Ejercicios:
+Extender el esquema de base de datos diseñado en el módulo anterior con más tablas y relaciones.
+Escribir consultas SQL utilizando JOINs para combinar datos de múltiples tablas y responder a preguntas más complejas.
+Utilizar subconsultas y funciones de ventana para realizar análisis más avanzados en los datos.
+Experimentar con la creación de índices para mejorar el rendimiento de consultas en tablas grandes.
+
+Módulo 5: Análisis de Datos y Ciencia de Datos - Introducción (Duración Estimada: En curso y adaptable)
+
+Semana 21 y siguientes: Análisis Exploratorio de Datos (EDA)
+
+Temas:
+¿Qué es el Análisis Exploratorio de Datos (EDA) y por qué es crucial?
+El ciclo de vida de un proyecto de análisis de datos.
+Técnicas de EDA:
+Estadística descriptiva (medidas de tendencia central, dispersión, distribuciones).
+Visualizaciones para EDA (histogramas, boxplots, gráficos de dispersión, mapas de calor, etc.).
+Análisis de correlaciones.
+Identificación de valores atípicos (outliers).
+Ingeniería de características (feature engineering) básica - Creación de nuevas variables a partir de las existentes para mejorar el análisis o modelado.
+Herramientas y librerías para EDA en Python (Pandas, NumPy, Matplotlib, Seaborn).
+Documentación y presentación de resultados de EDA.
+Ejemplos Prácticos:
+Realizar un EDA completo en un dataset público utilizando Python y las librerías aprendidas.
+Documentar los hallazgos del EDA en un informe o presentación.
+Ejercicios:
+Elegir un dataset diferente y realizar un EDA similar.
+Identificar posibles problemas de calidad de datos en un dataset y proponer estrategias de limpieza.
+Plantear preguntas analíticas relevantes para un dataset y utilizar EDA para empezar a responderlas.
+
+Introducción a Modelado Predictivo y Machine Learning (Dependiendo de tu interés y avance - Podemos extender o profundizar según sea necesario)
+
+Temas:
+Introducción al Machine Learning: ¿Qué es y tipos de aprendizaje (supervisado, no supervisado, reforzamiento)?
+Modelos de Machine Learning básicos:
+Regresión lineal.
+Regresión logística.
+Árboles de decisión.
+Bosques aleatorios (Random Forests).
+Máquinas de vectores de soporte (SVM) - Opcional inicialmente.
+K-Vecinos más cercanos (KNN).
+K-Means (clustering) - Ejemplo de aprendizaje no supervisado.
+Proceso de modelado:
+División de datos en conjuntos de entrenamiento y prueba.
+Entrenamiento de modelos.
+Evaluación de modelos (métricas de evaluación para clasificación y regresión).
+Ajuste de hiperparámetros (optimización de modelos).
+Librerías de Machine Learning en Python: Scikit-learn (sklearn).
+Consideraciones éticas en Machine Learning.
+Ejemplos Prácticos:
+Implementar un modelo de regresión lineal para predecir una variable numérica.
+Implementar un modelo de clasificación (por ejemplo, regresión logística o árboles de decisión) para predecir una variable categórica.
+Evaluar el rendimiento de los modelos utilizando métricas adecuadas.
+Ejercicios:
+Elegir un problema de clasificación o regresión y aplicar un modelo de Machine Learning para resolverlo utilizando Scikit-learn.
+Experimentar con diferentes modelos y algoritmos.
+Intentar mejorar el rendimiento de un modelo ajustando sus hiperparámetros.
+Entorno de Trabajo Práctico en VSCode:
+
+Instalación de VSCode: Descarga e instala VSCode desde la página oficial: https://code.visualstudio.com/
+
+Extensiones Esenciales: Abre VSCode, ve a la pestaña de Extensiones (icono de bloques) y busca e instala:
+
+Python (por Microsoft): Soporte principal de Python, IntelliSense, depuración.
+Pylance: Servidor de lenguaje Python de alto rendimiento (puede instalarse automáticamente con la extensión de Python o instalarse por separado).
+(Opcional pero recomendado) Jupyter: Para trabajar con notebooks Jupyter dentro de VSCode.
+(Opcional) GitLens: Si planeas usar Git para control de versiones (muy recomendable), GitLens mejora la visualización del historial de Git.
+Creación de un Entorno Virtual:
+
+Abre la paleta de comandos en VSCode (Ctrl+Shift+P o Cmd+Shift+P) y escribe "Python: Create Environment".
+Elige "Venv" o "Conda" (si tienes Anaconda instalado, Conda es preferible).
+Selecciona la versión de Python base.
+VSCode creará un entorno virtual en la carpeta de tu proyecto.
+Selección del Intérprete Python:
+
+En la esquina inferior derecha de VSCode, verás el intérprete de Python seleccionado (puede decir algo como "Python 3.x.x").
+Haz clic en él y asegúrate de que esté seleccionado el entorno virtual que acabas de crear.
+Instalación de Librerías en el Entorno Virtual:
+
+Abre la terminal integrada de VSCode (Ctrl+o Cmd+).
+Asegúrate de que la terminal esté activada dentro del entorno virtual (debería mostrar el nombre del entorno entre paréntesis en el prompt).
+Utiliza pip install para instalar las librerías que necesites (por ejemplo: pip install pandas numpy matplotlib seaborn jupyter).
+Ejercicios Adicionales:
+
+Además de los ejercicios dentro de cada semana, te proporcionaré al final de cada módulo ejercicios más amplios que te permitan aplicar lo aprendido en proyectos pequeños y más completos. Estos ejercicios te ayudarán a consolidar tus conocimientos y a construir un portafolio.
